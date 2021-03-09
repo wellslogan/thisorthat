@@ -1,0 +1,17 @@
+{
+  "[typescriptreact]": {
+      "editor.formatOnSave": true
+  },
+  "[typescript]": {
+      "editor.formatOnSave": true
+  },
+  "[scss]": {
+      "editor.formatOnSave": true
+  },
+  "[html]": {
+      "editor.formatOnSave": true
+  },
+  "[json]": {
+      "editor.formatOnSave": true
+  }
+}
