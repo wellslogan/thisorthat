@@ -1,1 +1,0 @@
-export const GITHUB_PAGES_MAX_URL_LENGTH = 8_201;
